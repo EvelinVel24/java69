@@ -1,4 +1,4 @@
-package main.java.com.tu_empresa.cliente.config;
+package com.tu_empresa.cliente.config;
 
 
 import org.apache.ibatis.session.SqlSessionFactory;

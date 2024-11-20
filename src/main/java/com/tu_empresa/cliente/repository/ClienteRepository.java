@@ -1,4 +1,4 @@
-package main.java.com.tu_empresa.cliente.repository;
+package com.tu_empresa.cliente.repository;
 
 import com.tu_empresa.cliente.mapper.ClienteMapper;
 import com.tu_empresa.cliente.model.Cliente;

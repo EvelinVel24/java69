@@ -1,4 +1,4 @@
-package main.java.com.tu_empresa.cliente.mapper;
+package com.tu_empresa.cliente.mapper;
 
 import org.apache.ibatis.annotations.*;
 

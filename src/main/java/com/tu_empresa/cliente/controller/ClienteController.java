@@ -1,4 +1,4 @@
-package main.java.com.tu_empresa.cliente.controller;
+package com.tu_empresa.cliente.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

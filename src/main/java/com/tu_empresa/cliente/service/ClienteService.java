@@ -1,4 +1,4 @@
-package main.java.com.tu_empresa.cliente.service;
+package com.tu_empresa.cliente.service;
 
 import org.springframework.stereotype.Service;
 import java.util.List;
